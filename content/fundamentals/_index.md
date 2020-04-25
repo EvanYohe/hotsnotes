@@ -11,6 +11,8 @@ The anticipation as you start a match, the valiance when you step into a lane, t
 
 Learn a little about the basic game mechanics, such as health, resources, crowd control and movement impairing effect.
 
+This tab has: CC lists, 
+
 
 
 ## Movement
